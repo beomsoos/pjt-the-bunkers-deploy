@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pjt-the-bunkers-deploy/static/css/main.06b16d2e.css",
+    "main.js": "/pjt-the-bunkers-deploy/static/js/main.5baaa217.js",
+    "static/media/Jost-VariableFont_wght.ttf": "/pjt-the-bunkers-deploy/static/media/Jost-VariableFont_wght.6de07354a7108bacf175.ttf",
+    "static/media/DMSerifDisplay-Regular.ttf": "/pjt-the-bunkers-deploy/static/media/DMSerifDisplay-Regular.ca478f5117e07586dd07.ttf",
+    "index.html": "/pjt-the-bunkers-deploy/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.06b16d2e.css",
+    "static/js/main.5baaa217.js"
+  ]
+}
